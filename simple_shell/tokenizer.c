@@ -38,5 +38,5 @@
     free(line), line=NULL;
     command[i] = NULL;
     return (command);
-
  }
+ 
