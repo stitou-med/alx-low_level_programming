@@ -6,7 +6,7 @@
  * pointed to by s with the constant byte b
  * Return: void
  */
-char *_memset(char *s, char b, unsigned int n)
+char _memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
 
